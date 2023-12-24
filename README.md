@@ -2,9 +2,9 @@
 
 **Contribuidores:** Elias Faiçal  
 **Versão Atual:** 1.0  
-**Testado até:** 6.4.2
+**Testado até:** 6.4.2  
 **Requer o WordPress:** 6.0 ou superior  
-**Licença:** GPL-2.0+
+**Licença:** GPL-2.0+  
 **URI da Licença:** http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Descrição do desafio
@@ -15,7 +15,7 @@
 
 ## Instruções de uso
 
-1 - Instale e ative plugin [btn-count](https://github.com/eliasfaical/plugins-wp-teste/btn-count);
-2 - Utilize o shortcode `[btn_shortcode]` em qualquer área do site;
-3 - Instale e ative plugin [registros-wpcli](https://github.com/eliasfaical/plugins-wp-teste/registros-wpcli);
-4 - Execute o seguinte comando do WP-CLI no terminal para imprimir os registros: `wp relatorio-tabela listarRegistros`
+- 1 Instale e ative plugin [btn-count](https://github.com/eliasfaical/plugins-wp-teste/tree/main/btn-count);
+- 2 Utilize o shortcode `[btn_shortcode]` em qualquer área do site;
+- 3 Instale e ative plugin [registros-wpcli](https://github.com/eliasfaical/plugins-wp-teste/tree/main/registros-wpcli);
+- 4 Execute o seguinte comando do WP-CLI no terminal para imprimir os registros: `wp relatorio-tabela listarRegistros`
