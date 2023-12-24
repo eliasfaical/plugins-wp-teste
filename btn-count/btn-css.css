@@ -1,0 +1,27 @@
+.btn-count {
+  color: #fff;
+  background-color: #2e86de;
+  background-image: none;
+  border: 1px solid #54a0ff;
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 16px;
+  line-height: 1.4;
+  border-radius: 4px;
+  text-decoration: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.btn-count:hover {
+  background-color: #54a0ff;
+}
